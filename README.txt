@@ -19,17 +19,17 @@
 - threading : Gestion du multithreading pour exécuter plusieurs tâches en parallèle
 - platform : Détection d'informations sur le système d'exploitation et la plateforme d'exécution
 
-## Installation
-
-### Prérequis
-- Liste des prérequis (ex: 
-
 ### Étapes
 1. Cloner le dépôt
 ```bash
-   git clone https://github.com/kikat234/nom-du-projet.git
+   git clone https://github.com/kikat234/System_de_recuperateur_de_donnee.git
 ```
-
+2. Creer un environnement virtuel
+**Créer un environnement virtuel**
+```bash
+   python -m venv venv
+   venv\Scripts\activate
+```
 
 3. Lancer le projet
 ```bash
